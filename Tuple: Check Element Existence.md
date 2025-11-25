@@ -16,7 +16,8 @@ print("52" in tup)
 print("12" in tup)
 ```
 ## Output
-![Uploading tup.jpg…]()
+
+![tup](https://github.com/user-attachments/assets/e4c30acc-06a1-4c39-b337-a34caa64e13c)
 
 ## Result
 Thus a Python program that checks if the element `'n'` and the element `8` exist within a given tuple is created.
