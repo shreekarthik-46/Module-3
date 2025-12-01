@@ -1,5 +1,5 @@
 
-#  3)c)Strings-Remove Nth Index Character from a String
+#  3)c)Strings-Remove 3rd Index Character from a String
 
 ##  Aim
 To write a python function that accepts a string and removes the 3rd index value from the string
