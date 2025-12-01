@@ -1,4 +1,4 @@
-#3)b) Regex in Python: Filter Words Without the Letter 'e'
+# 3)b) Regex in Python: Filter Words Without the Letter 'e'
 
 ##  Aim
 To write a Python program that find sequences of Upper case letters joined with a '@'.
